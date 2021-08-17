@@ -9,3 +9,4 @@ A list or articles I've used to learn Unity
 
 ## Tools
 * [Unity fast async tool](https://github.com/Cysharp/UniTask)
+* [UnityYAMLMerge](https://docs.unity3d.com/Manual/SmartMerge.html)
