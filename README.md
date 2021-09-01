@@ -8,6 +8,8 @@ A list of articles I've used to learn Unity
 * [Productivity tips](https://create.unity3d.com/ebook-improve-workflow?utm_campaign=DCS-Games_global_Newsletter_motiva%3A%3A12997%3A%3A2021-08-global-unity-newsletter-august-2%3A%3ASTO&utm_content=2021-08-global-unity-newsletter-august-2&utm_medium=email&utm_source=Eloqua&elqcst=272&elqcsid=4749)
 * [Singleton tips](https://rohanmayya.com/a-quick-note-on-singleton-classes/)
 * [ASYNC in Unity](https://john-tucker.medium.com/unity-leveling-up-with-async-await-tasks-2a7971df9c57)
+* [Shader tutorials](https://www.ronja-tutorials.com/)
+* [C# and shader tutorials](https://catlikecoding.com/unity/tutorials/)
 
 
 ## Tools
