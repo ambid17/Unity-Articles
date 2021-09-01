@@ -10,6 +10,11 @@ A list of articles I've used to learn Unity
 * [ASYNC in Unity](https://john-tucker.medium.com/unity-leveling-up-with-async-await-tasks-2a7971df9c57)
 * [Shader tutorials](https://www.ronja-tutorials.com/)
 * [C# and shader tutorials](https://catlikecoding.com/unity/tutorials/)
+* [Game dev resource list](https://blackshellmedia.com/game-development-resources/)
+
+### Game Publishing
+* [A good pitch](https://ltpf.ramiismail.com/pitching-in/)
+* 
 
 
 ## Tools
