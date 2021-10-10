@@ -1,5 +1,5 @@
 # Unity-Articles
-A list of articles I've used to learn Unity
+A list of articles I've used to learn about Unity and Game Dev
 
 
 ## Articles
