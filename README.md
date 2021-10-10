@@ -12,6 +12,7 @@ A list of articles I've used to learn Unity
 * [C# and shader tutorials](https://catlikecoding.com/unity/tutorials/)
 * [Game dev resource list](https://blackshellmedia.com/game-development-resources/)
 * [custom Character controller](https://www.cjonesdev.com/blog/unity-vs-the-custom-character-controller) 
+* [Design patterns](https://refactoring.guru/design-patterns/catalog)
 
 ### Game Publishing
 * [A good pitch](https://ltpf.ramiismail.com/pitching-in/)
@@ -24,8 +25,8 @@ A list of articles I've used to learn Unity
 * [LASP](https://github.com/keijiro/Lasp)
 * [Terrain serialization](https://assetstore.unity.com/packages/tools/terrain/terrain-transition-tool-terrain-saves-pro-2020-199639#description)
 * [Object locker](https://github.com/made-indrayana/object-locker)
-* [C# Toolkit](
-https://assetstore.unity.com/packages/tools/utilities/c-toolkit-187469#description)
+* [C# Toolkit](https://assetstore.unity.com/packages/tools/utilities/c-toolkit-187469#description)
+* [Debug drawing tools](https://bitbucket.org/Taugeshtu/clutter/src/master/General/Draw.cs)
 
 ## C#
 * [The KING: Tim Corey](https://www.youtube.com/user/IAmTimCorey)
@@ -42,3 +43,6 @@ https://assetstore.unity.com/packages/tools/utilities/c-toolkit-187469#descripti
 
 ## Level Design
 * [Old school level design](https://noclip.website/)
+
+## Unity optimization
+* [Game optimization tips](https://www.youtube.com/watch?v=ysk7ATmIeOs)
