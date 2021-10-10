@@ -15,10 +15,14 @@ A list of articles I've used to learn Unity
 * [Design patterns](https://refactoring.guru/design-patterns/catalog)
 * [Creating a moddable game in Unity](https://www.turiyaware.com/blog/creating-a-moddable-unity-game)
 * [Modding with addressables](https://www.raywenderlich.com/14494028-introduction-to-modding-unity-games-with-addressables)
+* [Gaffer on Games: tons of useful articles on networking](https://gafferongames.com/)
+* [A rant on LODs](https://forum.unity.com/threads/psa-a-general-rant-on-model-lods.859201/)
+* [A cool animation tool using AI](https://www.deepmotion.com/)
+* [Portals implementation](https://github.com/daniel-ilett/portals-urp)
 
 ### Game Publishing
 * [A good pitch](https://ltpf.ramiismail.com/pitching-in/)
-* 
+* [Facepunch: the best Steam API for Unity](https://github.com/Facepunch/Facepunch.Steamworks)
 
 
 ## Tools
@@ -47,6 +51,7 @@ A list of articles I've used to learn Unity
 
 ## Level Design
 * [Old school level design](https://noclip.website/)
+* [Level Design bible](https://drive.google.com/file/d/1xGzouGSfYKQf0axARoeJsLl6EFFnjIBg/view)
 
 ## Unity optimization
 * [Game optimization tips](https://www.youtube.com/watch?v=ysk7ATmIeOs)
@@ -54,4 +59,18 @@ A list of articles I've used to learn Unity
 ## Art
 * [Stylized 3d production guide](https://stylized3d.80.lv/)
 * [Handpainter's Guild](https://handpaintersguild.com/tutorials/)
-* 
+* [Quick tips for making Unity games look good](https://www.youtube.com/watch?v=eDiRnWhqqIY)
+* [Realistic materials](https://docs.unity3d.com/Manual/StandardShaderMaterialCharts.html)
+* [Free HDRIs, Textures, and Models](https://polyhaven.com/)
+* [Paid models](https://www.cgtrader.com/)
+* [Paid/free models](https://www.turbosquid.com/)
+
+
+## Shaders
+* [Catlike Coding](https://catlikecoding.com/unity/tutorials/)
+* [Geometry Shaders](https://halisavakis.com/my-take-on-shaders-geometry-shaders/)
+* [Unity shader basics](https://github.com/Centribo/Unity-Shader-Basics-Tutorial)
+* [Geometry shader adventure](http://vfxmike.blogspot.com/2018/07/geometry-shader-adventures-mesh.html)
+* [Volumetric clouds](http://astroukoff.blogspot.com/2019/09/clouds-shader-breakdown.html)
+* [Shader graph nodes](https://github.com/gilescoope/shader-graph-nodes)
+* [Worldmapping UVs](https://gamedev.stackexchange.com/questions/136652/uv-world-mapping-in-shader-with-unity)
