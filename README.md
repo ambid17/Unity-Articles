@@ -13,6 +13,8 @@ A list of articles I've used to learn Unity
 * [Game dev resource list](https://blackshellmedia.com/game-development-resources/)
 * [custom Character controller](https://www.cjonesdev.com/blog/unity-vs-the-custom-character-controller) 
 * [Design patterns](https://refactoring.guru/design-patterns/catalog)
+* [Creating a moddable game in Unity](https://www.turiyaware.com/blog/creating-a-moddable-unity-game)
+* [Modding with addressables](https://www.raywenderlich.com/14494028-introduction-to-modding-unity-games-with-addressables)
 
 ### Game Publishing
 * [A good pitch](https://ltpf.ramiismail.com/pitching-in/)
@@ -27,6 +29,8 @@ A list of articles I've used to learn Unity
 * [Object locker](https://github.com/made-indrayana/object-locker)
 * [C# Toolkit](https://assetstore.unity.com/packages/tools/utilities/c-toolkit-187469#description)
 * [Debug drawing tools](https://bitbucket.org/Taugeshtu/clutter/src/master/General/Draw.cs)
+* [Creating a Unity game installer](https://blog.kailaharris.com/2019-03-24/install-innosetup/)
+
 
 ## C#
 * [The KING: Tim Corey](https://www.youtube.com/user/IAmTimCorey)
@@ -46,3 +50,8 @@ A list of articles I've used to learn Unity
 
 ## Unity optimization
 * [Game optimization tips](https://www.youtube.com/watch?v=ysk7ATmIeOs)
+
+## Art
+* [Stylized 3d production guide](https://stylized3d.80.lv/)
+* [Handpainter's Guild](https://handpaintersguild.com/tutorials/)
+* 
