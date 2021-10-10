@@ -11,6 +11,7 @@ A list of articles I've used to learn Unity
 * [Shader tutorials](https://www.ronja-tutorials.com/)
 * [C# and shader tutorials](https://catlikecoding.com/unity/tutorials/)
 * [Game dev resource list](https://blackshellmedia.com/game-development-resources/)
+* [custom Character controller](https://www.cjonesdev.com/blog/unity-vs-the-custom-character-controller) 
 
 ### Game Publishing
 * [A good pitch](https://ltpf.ramiismail.com/pitching-in/)
@@ -25,3 +26,17 @@ A list of articles I've used to learn Unity
 * [Object locker](https://github.com/made-indrayana/object-locker)
 * [C# Toolkit](
 https://assetstore.unity.com/packages/tools/utilities/c-toolkit-187469#description)
+
+## C#
+* [The KING: Tim Corey](https://www.youtube.com/user/IAmTimCorey)
+
+
+## Git
+* [Short and quick Git LFS](https://youtu.be/9gaTargV5BY)
+* [Git LFS Unity setup](https://youtu.be/09McJ2NL7YM)
+* [Git LFS deep dive](https://youtu.be/iJ3hXuEVKAc)
+* []()
+* []()
+* []()
+* []()
+* []()
