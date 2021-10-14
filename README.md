@@ -22,6 +22,7 @@ A list of articles I've used to learn about Unity and Game Dev
 * [A rant on LODs](https://forum.unity.com/threads/psa-a-general-rant-on-model-lods.859201/)
 * [A cool animation tool using AI](https://www.deepmotion.com/)
 * [Portals implementation](https://github.com/daniel-ilett/portals-urp)
+* [10 common mistakes](https://www.toptal.com/unity-unity3d/top-unity-development-mistakes)
 
 ### Game Publishing
 * [A good pitch](https://ltpf.ramiismail.com/pitching-in/)
