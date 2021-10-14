@@ -1,6 +1,9 @@
 # Unity-Articles
 A list of articles I've used to learn about Unity and Game Dev
 
+## Other collections
+[Unity script collection](https://opensourcelibs.com/lib/unity-script-collection)
+
 
 ## Articles
 * [How the update loop works](https://blog.unity.com/technology/1k-update-calls)
