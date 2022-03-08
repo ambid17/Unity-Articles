@@ -24,6 +24,7 @@ A list of articles I've used to learn about Unity and Game Dev
 * [A cool animation tool using AI](https://www.deepmotion.com/)
 * [Portals implementation](https://github.com/daniel-ilett/portals-urp)
 * [10 common mistakes](https://www.toptal.com/unity-unity3d/top-unity-development-mistakes)
+* [Car physics](https://asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html)
 
 ### Game Publishing
 * [A good pitch](https://ltpf.ramiismail.com/pitching-in/)
